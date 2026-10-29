@@ -1,0 +1,5 @@
+openai>=1.68,<3
+pandas>=2.2,<4
+python-dotenv>=1.0,<2
+sqlglot>=26,<30
+streamlit>=1.43,<2
